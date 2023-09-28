@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shainaz sultana.
 - 👀 I have recently completed HTML, CSS, and Javascript
-- 🌱 I’m currently learning React.
+
 
 
 <!---
